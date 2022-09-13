@@ -1,5 +1,10 @@
 ### Hi there 👋
-- 🌱 Looking for a Junior Data Analyst job
+- 🌱 I'm looking for a Junior Data Analyst job
+- 🌱 Here you can find projects I submitted as part of Practicum by Yandex's DA program
+- 🌱 All projects were aided by StackOverflow
+
+
+
 <!--
 **IdanMaylatt/IdanMaylatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
