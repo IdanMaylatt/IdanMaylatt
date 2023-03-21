@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I'm looking for a Junior Data Analyst job
 - 🌱 Here you can find projects I submitted as part of Practicum by Yandex's DA program
-- 🌱 All projects were aided by StackOverflow
 
 
 
